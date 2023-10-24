@@ -1,2 +1,4 @@
 # IDENAS
 Internal Dependency Exploration based Neural Architecture Search
+
+This research proposes IDENAS, an Internal Dependency-based Exploration for Neural Architecture Search, integrating NAS with feature selection. The methodology explores internal dependencies in the complete parameter space for classification involving 1D sensor and 2D image data as well. IDENAS employs a modified encoder-decoder model and the Sequential Forward Search (SFS) algorithm, combining input-output configuration search with embedded feature selection. Experimental results demonstrate IDENAS's superior performance in comparison to other algorithms, showcasing its effectiveness in model development pipelines and automated machine learning. On average, IDENAS achieved significant modelling improvements, underscoring its significant contribution to advancing the state-of-the-art in neural architecture search and feature selection integration.
