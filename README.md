@@ -41,7 +41,7 @@ In summary, the research has led to a significant improvement in performance. Th
    *Caption: Comparison of performance on the MNIST dataset, highlighting the notable improvement achieved through the research.*
 
 2. **Selected Features Impact:**
-   ![Feature Impact](images/feature_features.png)
+   ![Feature Impact](images/mnist_features.png)
 
    *Caption: Analysis of the impact of selected features*
 
