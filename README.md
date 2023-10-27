@@ -2,7 +2,8 @@
 
 ## Introduction
 
-IDENAS (Internal Dependency-based Exploration for Neural Architecture Search) is an innovative algorithm that seamlessly integrates Neural Architecture Search (NAS) with a novel feature exploration approach. The research addresses the limitations of traditional NAS by autonomously determining optimal input-output configurations, providing an alternative for scenarios where the underlying, associated input-ouput layers are not readily available. 
+IDENAS (Internal Dependency-based Exploration for Neural Architecture Search) is an innovative algorithm that seamlessly integrates Neural Architecture Search (NAS) with a novel feature exploration approach. The research addresses the limitations of traditional NAS by autonomously determining optimal input-output configurations, providing an alternative for scenarios where the underlying, associated input-ouput layers are not readily available.
+The related publication van be found already on ArXiv: https://arxiv.org/abs/2310.17250
 
 As machine learning continues to evolve, IDENAS stands out as a powerful tool with the potential to streamline model development and enhance the efficiency of automated machine learning processes. The study provides valuable insights into the methodology, challenges, and potential applications of NAS-based feature selection, establishing IDENAS as a noteworthy advancement in the field.
 
